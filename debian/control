@@ -1,0 +1,15 @@
+Source: novena-heirloom
+Section: admin
+Priority: optional
+Maintainer: Sean Cross <sean@kosagi.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
+Homepage: http://kosagi.com/
+Vcs-Git: git://github.com/xobs/novena-heirloom.git
+Vcs-Browser: https://github.com/xobs/novena-heirloom
+
+Package: novena-heirloom
+Architecture: all
+Depends: ${misc:Depends}
+Description: Extra configuration for Novena Heirloom model
+ This adds additional hardware support for the Heirloom model of Novena.

@@ -1,0 +1,9 @@
+/debian/files
+/debian/tmp
+/debian/novena-heirloom.debhelper.log
+/debian/novena-heirloom.substvars
+/debian/novena-heirloom.*.debhelper
+/debian/novena-heirloom/
+*.swp
+*.swo
+*~
