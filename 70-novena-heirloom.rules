@@ -1,1 +1,1 @@
-SUBSYSTEM=="thermal", ATTR{type}=="cpu-thermal", ATTR{mode}="enabled"
+SUBSYSTEM=="thermal", ATTR{type}=="cpu-thermal", ATTR{mode}="enabled", ATTR{policy}="bang_bang"
