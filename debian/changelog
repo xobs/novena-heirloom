@@ -1,3 +1,9 @@
+novena-heirloom (1.1-r1) unstable; urgency=medium
+
+  * Set fan governor to bang_bang
+
+ -- Sean Cross <xobs@kosagi.com>  Wed, 02 Sep 2015 13:51:15 +0800
+
 novena-heirloom (1.0-r1) unstable; urgency=medium
 
   * Initial creation
